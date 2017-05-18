@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/maverickmicky/sparkjava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://abhinav.goel%40tingcore.com@ontime.tingco.com:7990/scm/sc/smartcharging-controller.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/github/sparkjava" />
+    <option name="cloneParentDir" value="$USER_HOME$/tingcode" />
   </component>
 </application>
