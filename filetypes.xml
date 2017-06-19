@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="events" type="PLAIN_TEXT" />
       <mapping pattern="features" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
