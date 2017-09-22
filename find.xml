@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '/Users/abhinav.goel/github/tutorials/spring-data-cassandra/src/main/java/org/baeldung/spring/data/cassandra/config/CassandraConfig.java - [spring-data-cassandra]'" />
+    <option name="defaultScopeName" value="File '/Users/abhinav.goel/github/tutorials/spring-data-cassandra/src/main/java/org/baeldung/spring/data/cassandra/config/CassandraConfig.java - [spring-data-cassandra]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '/Users/abhinav.goel/github/tutorials/spring-data-cassandra/src/main/java/org/baeldung/spring/data/cassandra/config/CassandraConfig.java - [spring-data-cassandra]'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
