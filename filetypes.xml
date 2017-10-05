@@ -8,6 +8,7 @@
       <mapping pattern="events" type="PLAIN_TEXT" />
       <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="sbt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
