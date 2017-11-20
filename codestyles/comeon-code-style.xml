@@ -1,11 +1,11 @@
 <code_scheme name="comeon-code-style">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
   <option name="RIGHT_MARGIN" value="160" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
   </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
