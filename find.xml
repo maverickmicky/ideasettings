@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/tingcore/charging/operations/service/ChargePointService.java [charging-operations-service_main]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/tingcore/charging/operations/service/ChargePointService.java [charging-operations-service_main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/tingcore/charging/operations/service/ChargePointService.java [charging-operations-service_main]'" />
+    <option name="customScope" value="Directory '.../src [charging-operations-service]'" />
+    <option name="defaultScopeName" value="Directory '.../src [charging-operations-service]'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [charging-operations-service]'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
