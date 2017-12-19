@@ -18,6 +18,10 @@
           <option name="url" value="https://abhinav.goel%40tingcore.com@ontime.tingco.com:7990/scm/sc/smartcharging-controller.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://abhinav.goel%40tingcore.com@bitbucket.tingcore-infra.com/scm/fcd/migration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/tingcode" />
