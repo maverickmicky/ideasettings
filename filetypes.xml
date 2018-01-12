@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="temp" type="JSON" />
       <mapping pattern="mqttClient" type="JavaScript" />
-      <mapping pattern="readme" type="Markdown" />
       <mapping pattern="README" type="Markdown" />
+      <mapping pattern="readme" type="Markdown" />
       <mapping pattern="events" type="PLAIN_TEXT" />
       <mapping pattern="trampoline" type="PLAIN_TEXT" />
       <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
