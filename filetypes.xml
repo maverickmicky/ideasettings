@@ -12,6 +12,7 @@
       <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="mapping" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
