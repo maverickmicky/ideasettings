@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [migration-asset]'" />
-    <option name="defaultScopeName" value="Directory '... [migration-asset]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [migration-asset]'" />
+    <option name="customScope" value="Directory '... [elevator]'" />
+    <option name="defaultScopeName" value="Directory '... [elevator]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [elevator]'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
