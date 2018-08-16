@@ -12,14 +12,16 @@
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
-      <mapping pattern="features" type="PLAIN_TEXT" />
+      <mapping pattern="agreements" type="PLAIN_TEXT" />
       <mapping pattern="trampoline" type="PLAIN_TEXT" />
       <mapping pattern="events" type="PLAIN_TEXT" />
-      <mapping pattern="agreements" type="PLAIN_TEXT" />
+      <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="mapping" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
