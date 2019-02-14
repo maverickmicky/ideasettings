@@ -26,6 +26,10 @@
           <option name="url" value="http://sth-gitlab01.cleverdolphin.se/comeon-development/session.githttps://abhinav.goel%40tingcore.com@bitbucket.tingcore-infra.com/scm/fcd/cd-hub-gireve-gw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.tingcore-infra.com/scm/fcd/asset-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/tingcode" />
