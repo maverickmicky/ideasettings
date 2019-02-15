@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="temp" type="JSON" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="cdr" type="JSON" />
       <mapping pattern="ss" type="JSON" />
+      <mapping pattern="temp" type="JSON" />
       <mapping pattern="export" type="JSON" />
       <mapping pattern="export_stage" type="JSON" />
       <mapping pattern="evdriver" type="JSON" />
@@ -17,12 +18,11 @@
       <mapping pattern="events" type="PLAIN_TEXT" />
       <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="sbt" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="mapping" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
