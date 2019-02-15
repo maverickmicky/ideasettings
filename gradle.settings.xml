@@ -1,6 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="$USER_HOME$/gradle/service/gradle-4.5.1" />
+    <option name="serviceDirectoryPath" value="$USER_HOME$/gradle-5.2.1" />
     <option name="gradleVmOptions" value="-Dorg.gradle.warning.mode=all" />
   </component>
 </application>
