@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="cdr" type="JSON" />
       <mapping pattern="ss" type="JSON" />
       <mapping pattern="temp" type="JSON" />
@@ -13,10 +12,11 @@
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
-      <mapping pattern="agreements" type="PLAIN_TEXT" />
+      <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern="trampoline" type="PLAIN_TEXT" />
       <mapping pattern="events" type="PLAIN_TEXT" />
-      <mapping pattern="features" type="PLAIN_TEXT" />
+      <mapping pattern="agreements" type="PLAIN_TEXT" />
+      <mapping pattern="Todo" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="sbt" type="PLAIN_TEXT" />
