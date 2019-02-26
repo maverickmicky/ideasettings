@@ -23,6 +23,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="mapping" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
+      <mapping ext="jspn" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
